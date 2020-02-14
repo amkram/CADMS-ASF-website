@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'ASF',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  tagline: 'Research Effort on African Swine Fever',
   featureImage: '/uploads/featured-pig.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
