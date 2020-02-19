@@ -44,7 +44,8 @@
     "showdown": "^1.9.0",
     "url-parse": "^1.4.7",
     "v-runtime-template": "^1.10.0",
-    "vue-disqus": "^3.0.5"
+    "vue-disqus": "^3.0.5",
+    "vue-template-compiler": "^2.6.10"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^1.2.0",
