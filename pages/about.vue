@@ -71,6 +71,11 @@ gain understanding about TADs emergence and global spread.
   		  	<li>Model ASFV transmission dynamics, economic impact and risk of introduction into free areas in different eco-epidemiological settings using multi-scale simulation models</li>
 			<li>Integrate genomic-to-population level data and modeling methods into a comprehensive, open-access, user-friendly, long-term, analytical platform referred to as ASF-BioPortal</li>
 		  </ul>
+
+		  <h3>Broader Impacts</h3>
+<p>It is anticipated that the expected outcomes (better knowledge of factors contributing to disease emergence and transmission dynamics and new modeling, visualization, educational and technology transfer tools) will be directly used by veterinary and public health services in the SADC region to inform the development of more cost-effective preventive and control programs for ASF and other TADs, including those with zoonotic potential, which will lead to a huge positive translational impact in both animal and public health.</p>
+<p>The integration of all data, methods and educational materials into the ASFBioPortal will facilitate the analysis and visualization of pig contact networks and ASF-related data. All these will contribute to the vertical advancement in ASF research and will provide a modeling framework and generalizable principles useful for the study of the emergence, prevention and control of many other TADs at a local, continental and global scale.
+</p>
         </div>
 
       </template>
