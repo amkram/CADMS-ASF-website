@@ -80,15 +80,15 @@ gain understanding about TADs emergence and global spread.
 
       </template>
 
-      <template v-slot:sidebar>
-        <h3 class="subtitle is-4">
-          Latest Posts
-        </h3>
-        <posts-grid :per-row="1" :number="2" />
-      </template>
-    </main-section>
-  </div>
-</template>
+	  <template v-slot:sidebar>
+	    <h3 class="subtitle is-4">
+	  	News
+	    </h3>
+	    <posts-grid :per-row="1" :number="2" />
+	  </template>
+	  </main-section>
+	  </div>
+	  </template>
 <script>
 import SadcCard from '~/components/cards/SadcCard'
 export default {
