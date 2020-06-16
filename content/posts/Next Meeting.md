@@ -9,6 +9,6 @@ featureImage: /uploads/gara.jpg
 ---
 ## Global African Swine Fever Research Alliance (GARA) 2020 Scientific Meeting
 #### Kampala, Uganda
-#### April 14-16, 2020
+#### August 25-27, 2020
  
 ### [View meeting schedule](/meetings)

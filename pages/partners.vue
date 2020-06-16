@@ -2,7 +2,7 @@
   <div id="partners-page" class="page-wrapper about-page content-page">
     <site-hero
       title="Partners"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/hero2.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>

@@ -6,7 +6,7 @@
         blink: blinking
       }"
     >
-      <img src="@/assets/uploads/logo.png" />
+      <img src="@/assets/uploads/logo_all.png"/>
     </div>
   </div>
 </template>
@@ -25,7 +25,7 @@ export default {
 <style lang="scss">
 .logo-wrapper {
   position: relative;
-  height: 50px;
+  height: 100px;
   overflow: hidden;
   width: 300px;
   .logo-inner {
@@ -33,7 +33,7 @@ export default {
     height: 500px;
     img {
       display: block;
-      height: 40px;
+      height: 90px;
       margin: 5px;
       max-height: initial;
     }

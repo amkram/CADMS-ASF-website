@@ -2,7 +2,7 @@
   <div id="news-page" class="page-wrapper about-page content-page">
     <site-hero
       title="Training"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/pig3.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>

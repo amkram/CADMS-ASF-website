@@ -2,7 +2,7 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="About The Project"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/hero1.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -71,7 +71,6 @@ gain understanding about TADs emergence and global spread.
 <div class="tile is-ancestor" style="width:50%; float:right; margin-left:10px">
   <div class="tile is-parent">
 	<article class="tile is-child box">
-	<a href="https://en.wikipedia.org/wiki/Southern_African_Development_Community">
 	<img src="@/assets/uploads/pigs_grass.jpg"></a>
 	</article>
   </div>

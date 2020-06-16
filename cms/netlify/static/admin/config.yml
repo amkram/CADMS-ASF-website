@@ -5,7 +5,7 @@ backend:
 media_folder: "assets/uploads" # Media files will be stored in the repo under images/uploads
 public_folder: "uploads" # The src attribute for uploaded media will begin with /images/uploads
 site_url: https://awake-template.netlify.com
-logo_url: uploads/logo.png
+logo_url: uploads/logo_all.png
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Posts" # Used in the UI

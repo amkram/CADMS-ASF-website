@@ -2,7 +2,7 @@
   <div id="gallery-page" class="page-wrapper about-page content-page">
     <site-hero
       title="Gallery"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/pig2.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>

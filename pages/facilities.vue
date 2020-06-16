@@ -2,7 +2,7 @@
   <div id="facilities-page" class="page-wrapper about-page content-page">
     <site-hero
       title="Facilities"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/hero_facilities.png"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>

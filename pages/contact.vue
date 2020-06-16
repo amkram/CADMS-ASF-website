@@ -2,7 +2,7 @@
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
       title="Contact Us"
-      image=""
+      image="/uploads/piglets.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>

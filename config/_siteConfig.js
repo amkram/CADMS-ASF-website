@@ -9,8 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'ASF',
-  tagline: 'Research Effort on African Swine Fever',
+  siteName: 'Unravelling the Effect of Contact Networks & Socio-Economic Factors in the Emergence of Infectious Diseases at the Wild-Domestic Interface',
   featureImage: '/uploads/featured-pig.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -23,25 +22,28 @@ export default {
       link: '/about'
     },
     {
-      name: 'News',
-      link: '/news'
-    },
-	{
-      name: 'Meetings',
-      link: '/meetings'
-    },
-	{
       name: 'Partners',
       link: '/partners'
-    },
-	{
-      name: 'Training',
-      link: '/training'
     },
     {
       name: 'Facilities',
       link: '/facilities'
     },
+    {
+      name: 'Meetings',
+      link: '/meetings'
+    },
+    {
+      name: 'News',
+      link: '/news'
+    },
+
+
+	{
+      name: 'Training',
+      link: '/training'
+    },
+
 	{
       name: 'Gallery',
       link: '/gallery'

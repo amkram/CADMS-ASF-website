@@ -2,7 +2,7 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="Meetings"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/hero4.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -13,7 +13,7 @@
 		   <h3>Next Meeting</h3>
 			 <p class="subtitle" style="font-size: 12pt">
 			 <strong><a href="https://www.ars.usda.gov/GARA/">Global African Swine Fever Research Alliance</a> (GARA) 2020 Scientific Meeting</strong>
-			 <br>April 14-16<br>
+			 <br>August 25-27<br>
 			 Kampala, Uganda
 			 </p>
 		   </article>
