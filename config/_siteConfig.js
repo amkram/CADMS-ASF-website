@@ -22,6 +22,10 @@ export default {
       name: 'About',
       link: '/about'
     },
+    {
+      name: 'News',
+      link: '/news'
+    },
 	{
       name: 'Meetings',
       link: '/meetings'
@@ -33,6 +37,10 @@ export default {
 	{
       name: 'Training',
       link: '/training'
+    },
+    {
+      name: 'Facilities',
+      link: '/facilities'
     },
 	{
       name: 'Gallery',
