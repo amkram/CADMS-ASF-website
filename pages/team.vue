@@ -1,7 +1,7 @@
 <template>
-  <div id="partners-page" class="page-wrapper about-page content-page">
+  <div id="team-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="Partners"
+      title="Team"
       image="/uploads/hero2.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">
@@ -35,7 +35,7 @@
 		    </div>
 			</div>
 			<br>
-			<h3>Partners</h3>
+			<h3>Research Team Members</h3>
 	
 
 			<div class="tile is-ancestor" style="width:50%; height:370px;float:left; margin-left:10px">

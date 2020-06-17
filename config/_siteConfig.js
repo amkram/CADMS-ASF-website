@@ -22,8 +22,8 @@ export default {
       link: '/about'
     },
     {
-      name: 'Partners',
-      link: '/partners'
+      name: 'Team',
+      link: '/team'
     },
     {
       name: 'Facilities',

@@ -47,7 +47,7 @@
  <div class="tile is-ancestor" style="width:40%; float:left; margin-left:10px">
    <div class="tile is-parent">
  	<article class="tile is-child box">
- 	<a href="https://en.wikipedia.org/wiki/Southern_African_Development_Community">
+ 	<a href="https://crwad.org/wp-content/uploads/2019/10/CRWAD-2019-Author-Index-and-Abstracts.FINAL_.pdf">
  	<img src="@/assets/uploads/crwad19.png"></a>
  	  <p class="subtitle" style="font-size: 12pt">
 	  Drs. Beatriz Martínez-López and Kathleen O’Hara attended the meeting to present a poster outlining our project goals for the year ahead.

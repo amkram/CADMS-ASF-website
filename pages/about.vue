@@ -2,19 +2,22 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="About The Project"
-      image="/uploads/hero1.jpeg"
+      image="/uploads/pig4.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
+			<div>
           <h3>About the Project</h3>
-          <p>
+          <p >
             
 Support for this project is provided by the NSF-USDA-NIH Ecology and Evolution of Infectious Diseases
 (EEID) program.
-          </p>
+          </p>		  
+		  <img src="@/assets/uploads/usdanifa.jpg" style=" display: block; margin:0 auto" width=250>
 
-          <h3>Overview</h3>
+		  </div>
+          <h3 style="clear:both">Overview</h3>
           <p style="float:left">
 		  This study will contribute to the understanding of the emergence and complex transmission pathways of
 transboundary animal diseases (TADs) at the wildlife-domestic livestock interface. In the last decades
