@@ -9,7 +9,7 @@
         <div class="content">
           <h3>Shared Box Folder</h3>
           Feel free to share photos and other documents in our shared Box folder.<br>
-          <br><br><iframe src="https://ucdavis.app.box.com/embed/s/4wh25tjih3fzp35l4maal11m5olmcdax?sortColumn=date&view=list" width="900" style="height: 650px !important;" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+          <br><br><iframe src="https://ucdavis.app.box.com/embed/s/zx5j5ffcbkomopf2fumx3ebqs69ow953?sortColumn=date&view=list" width="900" style="height: 650px !important;" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 		  </div>
       </template>
 
