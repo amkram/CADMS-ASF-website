@@ -20,15 +20,11 @@
 		  </div>
 		</div>
           <h3 style="clear:both">All Meetings</h3>
-<br>
-		  <h4>December 5-8, 2020</h4>
-		 <strong><a href="https://crwad.org/2020-crwad-conference/">Conference for Research Workers in Animal Disease</a> (CRWAD)</strong><br>
-		 Chicago Marriott, Downtown Magnificent Mile, Chicago, Illinois, USA
-<br><br><br>
-		 <h4>August 25-27, 2020</h4>
-		 <strong><a href="https://www.ars.usda.gov/GARA/">Global African Swine Fever Research Alliance</a> (GARA) 2020 Scientific Meeting</strong>
-		 <br>Kampala, Uganda
-<br><br><br>
+
+ <h4 style="clear: both; padding-top:25px">November 2-5, 2019</h4>
+<p> <strong><a href="https://crwad.org/crwad2019/"">Conference of Research Workers in Animal Disease</a> (CRWAD)</strong>
+<br>Chicago Marriott, Downtown Magnificent Mile, Chicago, Illinois, USA </p>
+ <br><br>
 
 		  <h4>March 18-20, 2020</h4>
 		  <div class="tile is-ancestor" style="width:40%; float:left; margin-left:10px">
@@ -38,11 +34,19 @@
 			<p class="subtitle" style="font-size: 12pt"> Kick-off Meeting in Pretoria, South Africa</p>
 		  	</article>
 		    </div>
-		  </div></p>
+		  </div>
+<br><br><br>
 
- <h4 style="clear: both; padding-top:25px">November 2-5, 2019</h4>
-<p> <strong><a href="https://crwad.org/crwad2019/"">Conference of Research Workers in Animal Disease</a> (CRWAD)</strong>
-<br>Chicago Marriott, Downtown Magnificent Mile, Chicago, Illinois, USA </p>
+		 <h4 style="clear:both">August 25-27, 2020</h4>
+		 <strong><a href="https://www.ars.usda.gov/GARA/">Global African Swine Fever Research Alliance</a> (GARA) 2020 Scientific Meeting</strong>
+		 <br>Kampala, Uganda
+<br><br><br>
+
+
+		  <h4>December 5-8, 2020</h4>
+		 <strong><a href="https://crwad.org/2020-crwad-conference/">Conference for Research Workers in Animal Disease</a> (CRWAD)</strong><br>
+		 Chicago Marriott, Downtown Magnificent Mile, Chicago, Illinois, USA
+</p>
 
  <div class="tile is-ancestor" style="width:40%; float:left; margin-left:10px">
    <div class="tile is-parent">
@@ -55,6 +59,12 @@
  	</article>
    </div>
  </div>
+
+ 		 <h4 style="clear:both">March 23-26, 2021</h4>
+		 <strong><a href="https://wildboarsymposium.com/">International Symposium on Wild Boar and Other Suids </a></strong>
+		 <br>Seva, Barcelona
+<br><br><br>
+
 
 
   </div>
