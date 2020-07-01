@@ -1,6 +1,6 @@
 <template>
   <footer class="site-footer">
-    CADMS &nbsp; | &nbsp; Univeristy of California, Davis &copy; {{ new Date().getFullYear() }}
+    CADMS &nbsp; | &nbsp; University of California, Davis &copy; {{ new Date().getFullYear() }}
     <br />
   </footer>
 </template>
