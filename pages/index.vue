@@ -11,7 +11,7 @@
         <div class="tile is-ancestor" style="width:70%; margin: 0 auto">
   <div class="tile is-parent">
 	<article class="tile is-child box">
-	<img src="@/assets/uploads/logo_all.png"></a>
+	<img src="@/assets/uploads/logo_all.png" style="width:100%"></a>
 
 	</article>
   </div>
