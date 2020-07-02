@@ -48,6 +48,10 @@ export default {
       name: 'Gallery',
       link: '/gallery'
     },
+    {
+      name: 'Collaborate',
+      link: '/collaborate'
+    },
 
     {
       name: 'Contact',

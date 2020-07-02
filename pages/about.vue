@@ -8,13 +8,7 @@
       <template v-slot:default>
         <div class="content">
 			<div>
-          <h3>About the Project</h3>
-          <p >
-            
-Support for this project is provided by the NSF-USDA-NIH Ecology and Evolution of Infectious Diseases
-(EEID) program.
-          </p>		  
-		  <img src="@/assets/uploads/usdanifa.jpg" style=" display: block; margin:0 auto" width=250>
+	  
 
 		  </div>
           <h3 style="clear:both">Overview</h3>
@@ -83,7 +77,14 @@ gain understanding about TADs emergence and global spread.
 <p>The integration of all data, methods and educational materials into the ASFBioPortal will facilitate the analysis and visualization of pig contact networks and ASF-related data. All these will contribute to the vertical advancement in ASF research and will provide a modeling framework and generalizable principles useful for the study of the emergence, prevention and control of many other TADs at a local, continental and global scale.
 </p>
         </div>
-
+<br><br>
+          <p>
+<img src="@/assets/uploads/usdanifa.jpg" style=" display: block; margin:0 auto" width=230>
+<p style="margin: 0 auto; text-align: center">
+<em>Support for this project is provided by the NSF-USDA-NIH Ecology and Evolution of Infectious Diseases
+(EEID) program.</em>
+</p>
+          </p>	
       </template>
 
 	  <template v-slot:sidebar>

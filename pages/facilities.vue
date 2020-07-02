@@ -8,15 +8,17 @@
       <template v-slot:default>
         <div class="content">
           <h3>Center for Animal Disease Modeling and Surveillance (CADMS)</h3>
-			<div style="float:left; width: 40%">
+
+			<div style="float:left; width: 100%">
 			<h4>University of California, Davis</h4>
+			<img src="@/assets/uploads/logo.png" style="float:left; padding: 10px" width=200>
+
 			<p>
 				<strong>Project Lead</strong>: Beatriz Martinez-Lopez <br>
 				<strong>Key Personnel</strong>: Kathleen O'Hara
 			</p>
 			</div>
 
-			<img src="@/assets/uploads/logo.png" style="float:left" width=400>
 			
 			<p style="clear:both;"><br>Internationally recognized as one of the premier research and educational institutions for health sciences in the world, the UC Davis School of Veterinary Medicine (SVM) offers outstanding training opportunities for junior research scientists whose career goals are research, public service, and clinical and academic education. Key, high profile programs at UCD that support student and faculty research include the new One Health Institute, the Genome Center, the department in Wildlife, Fisheries, and Conservation Biology, the Center for Animal Health and Food Safety, the Center for Animal Disease Modeling and Surveillance (CADMS), Center for Laboratory Animal Science, the Center for Vector borne Diseases and clinical facilities in the Veterinary Medical Teaching Hospital and UCD Medical Center. 
 				</p>
@@ -30,7 +32,9 @@
 <hr style="margin-top:50px; margin-bottom:50px">
         <div class="content">
           <h3>The French Agricultural Research Centre for International Development (CIRAD)</h3>
-			<div style="float:left; width: 40%">
+			<div style="float:left; width: 100%">
+			<img src="@/assets/uploads/cirad.jpg" style="float:left; padding: 10px; padding-top: 0" width=170>
+
 			<p>
 				<strong>Project Lead</strong>: Eric Etter<br>
 				<strong>Key Personnel</strong>: Alexandre Caron,
@@ -43,7 +47,6 @@ Laurence Vial
 			</p>
 			</div>
 
-			<img src="@/assets/uploads/cirad.jpg" style="float:left" width=300>
 			
 			<p style="clear:both;"><br>CIRAD is a French agricultural research center working for international development. The total number of employees is 1800 including 800 researchers. CIRAD is present in more than 90 countries with twelve regional offices and has a global network of partners. CIRAD bases its operation on development needs, from field to laboratory and from a local to global scale. Its activities involve life sciences, social sciences and engineering sciences applied to agriculture, food, natural resource management and society. Researchers from two units from CIRAD will be involved in this project: AGIRs and CMAEE.
 			</p>
@@ -60,15 +63,16 @@ Laurence Vial
 
         <div class="content">
           <h3>University of Pretoria (UP)</h3>
-			<div style="float:left; width: 45%">
-			<p>
+			<div style="float:left; width: 100%">
+			<img src="@/assets/uploads/UP.png" style="float:left;" width=110>
+
+			<p><br>
 				<strong>Project Lead</strong>: Armanda Baston<br>
 				<strong>Key Personnel</strong>: Mary Louise Penrith, Peter Thompson
 
 			</p>
 			</div>
 
-			<img src="@/assets/uploads/UP.png" style="float:left; margin-top:-60px" width=150>
 			
 			<p style="clear:both;"><br>As an internationally recognized South African research intensive institution of higher learning, the University of Pretoria (UP) is committed to making significant contributions to society – both regionally and internationally – through the fruits of our research.
 			</p>
@@ -87,7 +91,9 @@ Laurence Vial
 
         <div class="content">
           <h3>Onderstepoort Veterinary Institute (OVI)</h3>
-			<div style="float:left; width: 47%">
+			<div style="float:left; width: 100%">
+			<img src="@/assets/uploads/ovi.jpg" style="float:left; padding: 10px; padding-top: 0" width=120>
+
 			<p>
 				<strong>Project Lead</strong>: Juanita van Heerden<br>
 				<strong>Key Personnel</strong>: Livio Heath
@@ -95,7 +101,6 @@ Laurence Vial
 			</p>
 			</div>
 
-			<img src="@/assets/uploads/ovi.jpg" style="float:left;" width=150>
 			<br><br><br><br><br>
 			<img src="@/assets/uploads/fac_OVI.png" width=400 style="float:left;clear:both; padding-right: 15px"> 
 
@@ -109,14 +114,15 @@ Laurence Vial
 
         <div class="content">
           <h3>University Complutense of Madrid (UCM)</h3>
-			<div style="float:left; width: 50%">
-			<p>
+			<div style="float:left; width: 100%">
+			<img src="@/assets/uploads/UCM.png" style="float:left; padding-right: 10px; margin-top: -10px" width=100>
+
+			<p><br>
 				<strong>Project Lead</strong>:  José Manual Sànchez Viszaíno<br>
 
 			</p>
 			</div>
 
-			<img src="@/assets/uploads/UCM.png" style="float:left; margin-top: -40px" width=150>
 			<p style="clear:both"><br>	The University Complutense of Madrid (UCM) is the biggest, oldest (year 1494a.c.) and most complete University in Spain. UCM has two campuses with 20 faculties and 90.000 students. The Veterinary Faculty is also the main and oldest Veterinary Faculty in Spain and the first to be approved by the European Association of Establishments for Veterinary Education (EAEVE). It holds one of the most important diagnostic units of infectious diseases and veterinary health surveillance Center (VISAVET), as well as a state-of-art hospital for large and small animals. VISAVET-UCM Center is a team of professionals with over 25 years of experience in Animal Health, Preventive Medicine and Food Safety.
 </p>
 			<img src="@/assets/uploads/fac_UCM.png" width=400 style="float:left;clear:both; padding-right: 15px"> 
@@ -133,17 +139,18 @@ Laurence Vial
 
         <div class="content">
           <h3>Eduardo Mondlane University (UEM)</h3>
-			<div style="float:left; width: 50%">
-			<p>
+			<div style="float:left; width: 100%">
+				<img src="@/assets/uploads/uem.jpg" style="float:left; padding: 5px; margin-bottom: 40px" width=80>
+
+			<p><br>
 				<strong>Project Lead</strong>:  José Fafetine<br>
 
 			</p>
 			</div>
-
-			<img src="@/assets/uploads/uem.jpg" style="float:left; margin-top: -50px" width=130>
+			<img src="@/assets/uploads/fac_UEM.png" width=300 style="float:left; clear: both; padding-right: 15px"> 
+			
 
 <br><br><br><br><br><br>
-			<img src="@/assets/uploads/fac_UEM.png" width=400 style="float:left;clear:both; padding-right: 15px"> 
 		
 		<p>The Eduardo Mondlane University (UEM) is a public institution of national scope, the oldest institution of higher education in Mozambique which aims are to “produce and disseminate scientific knowledge and promote innovation through research as the foundation of the teaching-learning and extension, educating generations with humanistic values in order to face the current challenges for the development of society”. Currently, UEM have more than 30,365 students enrolled (including undergraduate, master’s degree and PhD) and with presence in Maputo, Gaza, Inhambane, Zambezia and through distance learning across the country and abroad.
 	</p>
@@ -156,14 +163,15 @@ Laurence Vial
 
         <div class="content">
           <h3>Institute of Agricultural Research of Mozambique (IIAM)</h3>
-			<div style="float:left; width: 42%">
+			<div style="float:left; width: 100%">
+			<img src="@/assets/uploads/iiam.jpg" style="float:left; padding-right: 10px" width=120>
+
 			<p>
 				<strong>Project Lead</strong>: Carlos Quembo<br>
 
 			</p>
 			</div>
 
-			<img src="@/assets/uploads/iiam.jpg" style="float:left;" width=240>
 
 		<p style="clear:both"><br>The Institute of Agricultural Research of Mozambique (IIAM) is the leading research institution in the agrarian sector of the country representing two-thirds of investment in this sector and capacity in human resources at national level. IIAM is a public entity that carries out research, development and dissemination of agricultural technology in Mozambique with the aim to increase the efficiency of agricultural research and natural resources directed toward alleviation of rural poverty. IIAM was established in 2004 because of the integration of five institutions to join efforts and complement resources; those institutions were the National Institute of Agronomic Research (INIA), Institute of Animal Production (IPA), National Veterinary Research Institute (INIVE), Center for Agricultural and Rural Development Training (CFA) and the Center for Forestry Research (CEF).
 </p>

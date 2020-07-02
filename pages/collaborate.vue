@@ -1,14 +1,16 @@
 <template>
-  <div id="gallery-page" class="page-wrapper about-page content-page">
+  <div id="collaborate-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="Gallery"
-      image="/uploads/pig2.jpeg"
+      title="Collaborate"
+      image="/uploads/pig1.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Coming soon</h3>
-          </div>
+          <h3>Shared Box Folder</h3>
+          Feel free to share photos and other documents in our shared Box folder.<br>
+          <br><br><iframe src="https://ucdavis.app.box.com/embed/s/zx5j5ffcbkomopf2fumx3ebqs69ow953?sortColumn=date&view=list" width="900" style="height: 650px !important;" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+		  </div>
       </template>
 
       <template v-slot:sidebar>
