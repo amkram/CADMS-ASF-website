@@ -74,7 +74,7 @@
     "redux": "^4.0.5",
     "rimraf": "^3.0.2",
     "sass-loader": "^8.0.2",
-    "sharp": "^0.25.4",
+    "sharp": "^0.30.5",
     "slate": "^0.58.3",
     "vue-server-renderer": "^2.6.11"
   }
